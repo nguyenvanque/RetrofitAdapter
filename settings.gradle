@@ -1,0 +1,3 @@
+include ':RetrofitAdapter'
+include ':app'
+rootProject.name = "RetrofitAdapter"
